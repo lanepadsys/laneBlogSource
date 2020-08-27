@@ -104,7 +104,40 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:lanepadsys/lanepad.github.io.git
+  repo: git@lanepad.github.com:lanepadsys/lanepadsys.github.io.git
   branch: master
   message: https://github.com/lanepadsys/laneBlogSource 内容部署
+
+# Live2D
+## https://github.com/xiazeyu/live2d-widget.js
+## https://l2dwidget.js.org/docs/class/src/index.js~L2Dwidget.html#instance-method-init
+# 当enable 为true的时候，会启用yaliya主题自带宠物shizuku,橘头发小姐姐，而且不可以配置位置，所以需要讲enable注释掉
+live2d:
+  # enable: true
+  scriptFrom: local
+  model:
+    # use: live2d-widget-model-z16
+    use: live2d-widget-model-wanko # 是一只趴在碗里的狗狗
+    # use: live2d-widget-model-hibiki 是一个御姐
+    # use: live2d-widget-model-haruto  海军服女孩，有点难看
+  display:
+    position: left
+    width: 350
+    height: 600
+    # 一个比较可爱的位置
+    # hOffset: 200
+    # vOffset: -100
+    # 第二个位置配置，这个在左侧边栏位置很居中
+    hOffset: -50  # 调节水平位置
+    vOffset: -150  # 调节垂直位置
+  mobile:
+    show: false
+    scale: 0.5
+  react:
+    opacityDefault: 0.7
+    opacityOnHover: 0.2
+
+# 文章末尾添加“本文结束”标记
+passage_end_tag:
+  enabled: true
 
