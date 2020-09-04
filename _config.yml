@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 车道收费手持终端官方网站
+title: 车道收费手持终端
 subtitle: ''
 description: ''
 keywords:
@@ -107,10 +107,10 @@ deploy:
     repo: git@lanepad.github.com:lanepadsys/lanepadsys.github.io.git
     branch: master
     message: https://github.com/lanepadsys/laneBlogSource 内容部署
-  - type: git
-    repo: git@lanepad.github.com:lanepadsys/laneBlogSource.git
-    branch: coding-pages
-    message: https://github.com/lanepadsys/laneBlogSource 内容部署
+#  - type: git
+#    repo: git@lanepad.github.com:lanepadsys/laneBlogSource.git
+#    branch: coding-pages
+#    message: https://github.com/lanepadsys/laneBlogSource 内容部署
 
 # Live2D
 ## https://github.com/xiazeyu/live2d-widget.js
