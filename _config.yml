@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 车道收费手持终端官方网站
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: 天羽屠龙舞
 language: en
 timezone: ''
 
@@ -103,10 +103,14 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: git@lanepad.github.com:lanepadsys/lanepadsys.github.io.git
-  branch: master
-  message: https://github.com/lanepadsys/laneBlogSource 内容部署
+  - type: git
+    repo: git@lanepad.github.com:lanepadsys/lanepadsys.github.io.git
+    branch: master
+    message: https://github.com/lanepadsys/laneBlogSource 内容部署
+  - type: git
+    repo: git@lanepad.github.com:lanepadsys/laneBlogSource.git
+    branch: coding-pages
+    message: https://github.com/lanepadsys/laneBlogSource 内容部署
 
 # Live2D
 ## https://github.com/xiazeyu/live2d-widget.js
