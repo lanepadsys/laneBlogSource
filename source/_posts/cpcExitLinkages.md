@@ -9,6 +9,7 @@ copyright: true #新增,开启
 # CPC出口联动收费
 &emsp;&emsp;点击系统主页面下方 ETC右侧按钮，切换至CPC联动操作页面，如图1-15所示；
 <div style="font-weight:bold;">前提：已在系统配置中启用出口车道</div>
+
 <div style="font-weight:bold;">使用场景：客户车辆由入口 ETC/MTC混合车道驶入、未安装成套卡签，需领用CPC卡时。</div>
 <table>
   <td><img src="/pub-images/laneCpc-1.jpg"  width="30%" /><div style="text-align:center;">图1-15</div></td>
@@ -23,7 +24,8 @@ copyright: true #新增,开启
    
  &emsp;&emsp;【选择车道】—【CPC联动】—【放置CPC卡】—【读卡】—【选择车型】—【选择车种】—【输入车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【算费】—【输入入口站时间】—【选择入口站】—【最短路径计费】—【站长权限校验】—【选择交易方式】—【提交数据】
 
-   &emsp;&emsp;点击系统主页面下方 ETC右侧按钮，切换至CPC联动操作页面，如图1-15所示，在该页面选择联动的车道，再点击屏幕中央【CPC联动】按钮，进入CPC出口联动界面，如图 1-32所示
+   &emsp;&emsp;点击系统主页面下方 ETC右侧按钮，切换至CPC联动操作页面，如图1-15所示，在该页面选择联动的车道，再点击屏幕中央【CPC联动】按钮，进入CPC出口联动界面，如图 1-32所
+   示
    <table>
            <td><img src="/pub-images/laneCpcExitPassengerCar-1.jpg"  width="60%" /><div style="text-align:center;">图1-15</div></td>
             <td><img src="/pub-images/laneCpcExitPassengerCar-2.jpg"  width="60%" /><div style="text-align:center;">图1-32</div></td>
@@ -58,8 +60,8 @@ copyright: true #新增,开启
  &emsp;&emsp;4）选择交易方式：算费成功后显示如图 1-48所示界面，选择交易方式；
   &emsp;&emsp;5）数据上传：将 CPC卡放置手持机感应区域，再点击【提交数据】按钮，上传出口交易数据”。
 <table>
-           <td><img src="/pub-images/-.jpg"  width="60%" /><div style="text-align:center;">图1-48</div></td>
-            <td><img src="/pub-images/laneNoEntryInformation-10.jpg"  width="60%" /><div style="text-align:center;">图1-49</div></td>
+           <td><img src="/pub-images/laneNoEntryInformation-9.jpg"  width="60%" /><div style="text-align:center;">图1-48</div></td>
+            <td><img src="/pub-images/laneNoEntryInformation-10.jpg"  width="6++0%" /><div style="text-align:center;">图1-49</div></td>
           </table>
    
 
