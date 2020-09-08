@@ -1,5 +1,5 @@
 ---
-title: 高速公路车道手持便携式收费系统（ETC出口联动收费）
+title: ETC出口联动收费
 date: 2020-09-05 22:47:58
 keywords: ETC甘肃,甘肃ETC,CPC卡办理,甘肃紫光,紫光ETC,移动支付,ETC移动,移动ETC,ETC办理，ETC手持终端,甘肃ETC办理,甘肃ETC发行,移动发行终端,手持便携式收费系统
 description: 1分钟一站式收费站移动办理，助您秒过高速
@@ -11,20 +11,20 @@ copyright: true #新增,开启
 &emsp;&emsp;前提：已在系统配置中启用出口车道。
 &emsp;&emsp;使用场景：客户车辆由出口 ETC车道或混合车道驶入、且安装成套卡签、标签未拆卸时。
 <table>
-  <td><img src="/pub-images/laneEtc-1.jpg"  width="30%" /><div style="text-align:center;">图1.6</div></td>
+  <td><img src="/pub-images/laneEtc-1.jpg"  width="25%" /><div style="text-align:center;">图1.6</div></td>
    </table>
    
-&emsp;&emsp;<div style="font-weight:bold;">ETC出口：客车操作</div>
-&emsp;&emsp;选择车道】—【ETC联动】—【读卡】—【选择车型】—【选择车种】—【核对车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【算费】—【提交数据】
+<div style="font-weight:bold;">&emsp;&emsp;ETC出口：客车操作</div>
+&emsp;&emsp;【选择车道】—【ETC联动】—【读卡】—【选择车型】—【选择车种】—【核对车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【算费】—【提交数据】
 
 # ETC出口联动(客车具体流程)
 &emsp;&emsp;如图 1-6所示系统首页为  ETC联动操作页面，在该页面选择联动的车道， 再点击屏幕中央【ETC联动】按钮，进入  ETC出口联动界面,如图1-24所示；
+
  <table>
         <td><img src="/pub-images/laneEtcPassengerCar-1.jpg"  width="30%" /><div style="text-align:center;">图1-24</div></td>
        </table>
 
-&emsp;&emsp;<div style="font-weight:bold;">ETC出口联动操作步骤如下：</div>
-
+<div style="font-weight:bold;">&emsp;&emsp;ETC出口联动操作步骤如下：</div>
 &emsp;&emsp;1）读卡签：确认 ETC卡已插入电子标签后点击界面【读卡】按钮，读取ETC卡与电子标签内写入的车辆信息，同时由系统自动校验读取的卡签车辆信息一致性、卡签有效性、状态名单等，卡签信息读取成功且校验通过后显示到界面，且显示图像识别区域，如图 1-25所示；
  <table>
         <td><img src="/pub-images/laneEtcPassengerCar-2.jpg"  width="60%" /><div style="text-align:center;">图1-24</div></td>
@@ -42,14 +42,14 @@ copyright: true #新增,开启
          <td><img src="/pub-images/laneEtcPassengerCar-7.jpg"  width="60%" /><div style="text-align:center;">图1-29</div></td>
        </table>
        
-&emsp;&emsp;<div style="font-weight:bold;">注意：不操作 ETC出口联动功能时，请返回至【ETC联动】主界面。</div>
-
+<div style="font-weight:bold;">&emsp;&emsp;注意：不操作 ETC出口联动功能时，请返回至【ETC联动】主界面。</div>
 
 # ETC出口联动(货车具体流程)
-&emsp;&emsp;<div style="font-weight:bold;">ETC入口：货车操作</div>
+
+<div style="font-weight:bold;">&emsp;&emsp;ETC入口：货车操作</div>
 &emsp;&emsp;【选择车道】—【ETC联动】—【读卡】—【选择车型】—【选择车种】—【核对车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【计重信息】—【算费】—【提交数据】
 
-&emsp;&emsp;<div style="font-weight:bold;">ETC入口货车操作步骤如下：</div>
+<div style="font-weight:bold;">&emsp;&emsp;ETC入口货车操作步骤如下：</div>
 
 &emsp;&emsp;1）读卡签：同客车操作；
 &emsp;&emsp;2）提交图片数据：同客车操作；
