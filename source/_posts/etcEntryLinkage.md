@@ -44,7 +44,7 @@ copyright: true #新增,开启
 <div style="font-weight:bold;">注意：不操作 ETC入口联动功能时，请返回至【ETC联动】主界面。</div>
 
 
-# ETC入口：货车操作（ETC入口客车操作具体流程）
+# ETC入口：货车操作（ETC入口货车操作具体流程）
 &emsp;&emsp;【选择车道】—【ETC联动】—【读卡】—【选择车型】—【选择车种】—【核对车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【计重信息】—【算费】—【提交数据】
 <div style="font-weight:bold;">&emsp;&emsp;ETC入口货车操作步骤如下：</div>
 
