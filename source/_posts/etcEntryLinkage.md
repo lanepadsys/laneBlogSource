@@ -29,6 +29,7 @@ copyright: true #新增,开启
  <td><img src="/pub-images/laneEtc-3.jpg"  width="60%" /><div style="text-align:center;">图1.8</div></td>
        </table>
 &emsp;&emsp;2.图片上传：在图像识别区域输入实际车牌号、选择实际车牌颜色，点击拍摄车辆照片，再点击界面【提交图片数据】按钮，如图 1-9所示
+
 &emsp;&emsp;3.图片上传完成之后：在【入口信息】区域内，请选择相应的车型，车种进行核对。如图 1-10所示
 <table>
   <td><img src="/pub-images/laneEtc-4.jpg"  width="60%" /><div style="text-align:center;">图1.9</div></td>
@@ -43,13 +44,13 @@ copyright: true #新增,开启
    
 <div style="font-weight:bold;">注意：不操作 ETC入口联动功能时，请返回至【ETC联动】主界面。</div>
 
-
 # ETC入口：货车操作（ETC入口货车操作具体流程）
 &emsp;&emsp;【选择车道】—【ETC联动】—【读卡】—【选择车型】—【选择车种】—【核对车牌号】—【选择颜色】—【拍摄照片】—【提交图片数据】—【计重信息】—【算费】—【提交数据】
+
 <div style="font-weight:bold;">&emsp;&emsp;ETC入口货车操作步骤如下：</div>
 
-&emsp;&emsp;1）读卡签：同客车操作
-&emsp;&emsp;2）提交图片数据：同客车操作
+&emsp;&emsp;1）读卡签：同客车操作;
+&emsp;&emsp;2）提交图片数据：同客车操作;
 &emsp;&emsp;3）获取计重信息：图片上传成功后，货车会显示如图 1-13所示界面，点击【计重信息】按钮，自动获取称重数据，信息获取成功后请务必核对车轴数，车轴数必须与车型相符（即货一、货二为 2轴、货三、货四、货五、货六依次为   3、4、5、6轴），若获取到的轴数不符，则手动修改；
 &emsp;&emsp;4）入口算费：计重信息获取成功后，如图 1-14所示，点击下方【算费】按钮，算费成功后在收费信息区域显示金额，同客车操作；
 &emsp;&emsp;5）数据上传：同客车操作。
