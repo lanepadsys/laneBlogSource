@@ -96,9 +96,17 @@ exclude:
 ignore:
 
 # Extensions
+
+# 搜索
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -107,6 +115,9 @@ deploy:
     repo: git@lanepad.github.com:lanepadsys/lanepadsys.github.io.git
     branch: master
     message: https://github.com/lanepadsys/laneBlogSource 内容部署
+
+#  - type: leancloud_counter_security_sync
+
 #  - type: git
 #    repo: git@lanepad.github.com:lanepadsys/laneBlogSource.git
 #    branch: coding-pages
@@ -144,4 +155,6 @@ live2d:
 # 文章末尾添加“本文结束”标记
 passage_end_tag:
   enabled: true
+
+
 
