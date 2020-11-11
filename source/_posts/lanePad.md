@@ -6,7 +6,7 @@ description: 1分钟一站式收费站移动办理，助您秒过高速
 top_img: /pub-images/lane-1.jpg
 index_top_img_height: /pub-images/laneLogin.png
 language: zh-CN
-comments: true
+comments: false
 ---
 
 # 背景

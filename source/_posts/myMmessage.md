@@ -4,6 +4,7 @@ date: 2020-09-08 17:00:58
 keywords: ETC甘肃,甘肃ETC,CPC卡办理,甘肃紫光,紫光ETC,移动支付,ETC移动,移动ETC,ETC办理，ETC手持终端,甘肃ETC办理,甘肃ETC发行,移动发行终端,手持便携式收费系统
 description: 其他功能演示
 copyright: true #新增,开启
+comments: false
 ---
 
 # 其他功能
