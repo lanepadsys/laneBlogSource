@@ -6,9 +6,10 @@ description: 1分钟一站式收费站移动办理，助您秒过高速
 copyright: true #新增,开启
 comments: false
 tags:
-    - jQuery
-    - 表格
-    - 表单验证
+    - CPC
+    - 入口
+    - 客车
+    - 货车
 ---
 
 # CPC入口联动收费

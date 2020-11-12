@@ -1,8 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dacac5c1-c2c3-4bb0-a49c-a0ef2f5d7560" name="Default Changelist" comment="">
+    <list default="true" id="dacac5c1-c2c3-4bb0-a49c-a0ef2f5d7560" name="Default Changelist" comment="修改主题：&#10;添加背景&#10;添加自定义文章底部版权声明&#10;添加红心&#10;添加字数统计&#10;添加动画图像">
+      <change afterPath="$PROJECT_DIR$/source/_posts/EnclosedetcCardTransactions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/EnclosedetcNoCardTransactions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcCardTransactions1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcCardTransactions2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcCardTransactions3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcCardTransactions4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcCardTransactions5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcCardTransactions6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcCardTransactions7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/video/升级.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/cpcEntryLinkage.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/cpcEntryLinkage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/cpcExitLinkage.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/cpcExitLinkage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/cpcExitLinkages.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/cpcExitLinkages.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/etcEntryLinkage.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/etcEntryLinkage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/etcExitLinkage.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/etcExitLinkage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/etcNoCardTransactions.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/etcNoCardTransactions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/laneLoginOperation.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/laneLoginOperation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/laneMaintenanceEntry.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/laneMaintenanceEntry.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/lanePad.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/lanePad.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/myMmessage.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/myMmessage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/butterfly/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/butterfly/languages/zh-CN.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly/languages/zh-CN.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/butterfly/layout/includes/footer.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly/layout/includes/footer.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/butterfly/layout/includes/widget/card_tags.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly/layout/includes/widget/card_tags.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/butterfly/source/css/cssall.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly/source/css/cssall.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/butterfly/source/js/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly/source/js/test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,40 +76,6 @@
         <option value="JavaScript File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>RIpyhzBYLuT4cM1Oc1icJUb8</find>
-      <find>home</find>
-      <find>language</find>
-      <find>leancloud</find>
-      <find>leancloud_visitors</find>
-      <find>time</find>
-      <find>guestbook</find>
-      <find>client</find>
-      <find>gitment</find>
-      <find>butterfly</find>
-      <find>valine</find>
-      <find>comments</find>
-      <find>ava</find>
-      <find>menu</find>
-      <find>lang</find>
-      <find>UV</find>
-      <find>last</find>
-      <find>subtitle</find>
-      <find>aplayer</find>
-      <find>aside</find>
-      <find>algolia_search</find>
-      <find>cover</find>
-      <find>fancybox</find>
-      <find>index_top_img</find>
-      <find>index_top</find>
-      <find>index</find>
-      <find>douban</find>
-      <find>cheerio</find>
-      <find>inject</find>
-      <find>background</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -67,10 +93,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/pub-images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -80,17 +107,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/pub-images" />
+      <recent name="$PROJECT_DIR$/source/_posts" />
+      <recent name="$PROJECT_DIR$/source" />
       <recent name="$PROJECT_DIR$/themes/butterfly/source/img" />
       <recent name="$PROJECT_DIR$/themes/next-eight/source/css/_common/components" />
-      <recent name="$PROJECT_DIR$/themes/next-eight/layout/_macro" />
-      <recent name="$PROJECT_DIR$/themes/next-eight/source/images" />
-      <recent name="$PROJECT_DIR$/themes/next-eight/source/js/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/pub-images/video" />
+      <recent name="$PROJECT_DIR$/source/pub-images/image" />
       <recent name="$PROJECT_DIR$/source/_posts" />
       <recent name="$PROJECT_DIR$/source/other" />
       <recent name="$PROJECT_DIR$/source/首页" />
-      <recent name="$PROJECT_DIR$/source/归档" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -126,7 +154,11 @@
       <workItem from="1604053963784" duration="649000" />
       <workItem from="1604387503826" duration="738000" />
       <workItem from="1604640435406" duration="1564000" />
-      <workItem from="1604643688989" duration="565000" />
+      <workItem from="1604643688989" duration="2150000" />
+      <workItem from="1604650602878" duration="33000" />
+      <workItem from="1604650673558" duration="16000" />
+      <workItem from="1605058895096" duration="16501000" />
+      <workItem from="1605145796675" duration="6729000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1598518233873</created>
@@ -233,7 +265,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604643915260</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="修改主题：&#10;添加背景&#10;添加自定义文章底部版权声明&#10;添加红心&#10;添加字数统计&#10;添加动画图像">
+      <created>1604644475763</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1604644475763</updated>
+    </task>
+    <task id="LOCAL-00017" summary="修改主题：&#10;添加背景&#10;添加自定义文章底部版权声明&#10;添加红心&#10;添加字数统计&#10;添加动画图像">
+      <created>1605068182461</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605068182461</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,22 +334,40 @@
     <option name="LAST_COMMIT_MESSAGE" value="修改主题：&#10;添加背景&#10;添加自定义文章底部版权声明&#10;添加红心&#10;添加字数统计&#10;添加动画图像" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1997" y="63" key="CommitChangelistDialog2" timestamp="1604643914467">
+    <state x="1997" y="63" key="CommitChangelistDialog2" timestamp="1605068388582">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="1997" y="63" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604643914467" />
+    <state x="1997" y="63" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605068388582" />
+    <state x="1828" y="142" width="1152" height="720" key="DiffContextDialog" timestamp="1605074875680">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1828" y="142" width="1152" height="720" key="DiffContextDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605074875680" />
     <state x="1909" y="171" key="SettingsEditor" timestamp="1604644257595">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="1909" y="171" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604644257595" />
     <state x="1909" y="190" key="SettingsEditor/0.23.1440.824/1440.23.1920.1057@1440.23.1920.1057" timestamp="1604643704443" />
-    <state x="2000" y="280" key="Vcs.Push.Dialog.v2" timestamp="1604644095561">
+    <state x="2000" y="280" key="Vcs.Push.Dialog.v2" timestamp="1605068409557">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604644095561" />
-    <state x="2213" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604643727576">
+    <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605068409557" />
+    <state x="1540" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605149632035">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="2213" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604643727576" />
+    <state x="1540" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605149632035" />
+    <state x="2213" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605074562757">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2213" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605068122768" />
+    <state x="2213" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605074562757" />
+    <state x="2107" y="295" width="586" height="522" key="find.popup" timestamp="1605153249669">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2107" y="295" width="586" height="522" key="find.popup/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605153249669" />
+    <state x="2107" y="295" width="586" height="490" key="find.popup/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605081020747" />
+    <state x="2065" y="241" key="search.everywhere.popup" timestamp="1605152590236">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2065" y="241" key="search.everywhere.popup/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605152590236" />
   </component>
 </project>

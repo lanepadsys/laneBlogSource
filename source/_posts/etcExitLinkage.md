@@ -5,6 +5,10 @@ keywords: ETC甘肃,甘肃ETC,CPC卡办理,甘肃紫光,紫光ETC,移动支付,E
 description: 1分钟一站式收费站移动办理，助您秒过高速
 copyright: true #新增,开启
 comments: false
+tags:
+    - ETC
+    - 出口
+    - 开放式
 ---
 
 # 开放式ETC出口联动

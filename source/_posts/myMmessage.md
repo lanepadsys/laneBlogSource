@@ -5,6 +5,13 @@ keywords: ETC甘肃,甘肃ETC,CPC卡办理,甘肃紫光,紫光ETC,移动支付,E
 description: 其他功能演示
 copyright: true #新增,开启
 comments: false
+tags:
+    - 关于
+    - 我的
+    - 使用指南
+    - 清除信息
+    - 退出
+    - 升级下载
 ---
 
 # 其他功能
