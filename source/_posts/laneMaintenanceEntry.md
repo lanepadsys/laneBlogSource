@@ -26,7 +26,7 @@ comments: false
 
 [10.封闭式ETC交易](http://lanepadsys.github.io/2020/11/10/EnclosedetcCardTransactions/)
 
-[11.流水查询](http://lanepadsys.github.io)
+[11.流水查询](http://lanepadsys.github.io/2020/11/09/laneFlowQuery/)
 
 [12.其他功能](http://lanepadsys.github.io/2020/09/08/myMmessage/)
 
