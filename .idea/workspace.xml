@@ -20,54 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dacac5c1-c2c3-4bb0-a49c-a0ef2f5d7560" name="Default Changelist" comment="修改主题：&#10;添加背景&#10;添加自定义文章底部版权声明&#10;添加红心&#10;添加字数统计&#10;添加动画图像">
-      <change afterPath="$PROJECT_DIR$/source/_posts/EnclosedetcCardTransactions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/EnclosedetcNoCardTransactions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcCardTransactions1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcCardTransactions2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcCardTransactions3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcCardTransactions4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcCardTransactions5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcCardTransactions6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcCardTransactions7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/EnclosedetcNoCardTransactions9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/pub-images/video/升级.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/cpcEntryLinkage.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/cpcEntryLinkage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/cpcExitLinkage.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/cpcExitLinkage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/cpcExitLinkages.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/cpcExitLinkages.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/etcEntryLinkage.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/etcEntryLinkage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/etcExitLinkage.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/etcExitLinkage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/etcNoCardTransactions.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/etcNoCardTransactions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/laneLoginOperation.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/laneLoginOperation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/laneMaintenanceEntry.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/laneMaintenanceEntry.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/lanePad.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/lanePad.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/myMmessage.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/myMmessage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/butterfly/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/butterfly/languages/zh-CN.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly/languages/zh-CN.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/butterfly/layout/includes/footer.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly/layout/includes/footer.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/butterfly/layout/includes/widget/card_tags.pug" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly/layout/includes/widget/card_tags.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/butterfly/source/css/cssall.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly/source/css/cssall.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/butterfly/source/js/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/butterfly/source/js/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="laneBlogSource" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -85,6 +51,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1juAcEK3WD1YVeohLuGjOPQdlLH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -93,11 +60,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/pub-images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -106,13 +76,6 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source/pub-images" />
-      <recent name="$PROJECT_DIR$/source/_posts" />
-      <recent name="$PROJECT_DIR$/source" />
-      <recent name="$PROJECT_DIR$/themes/butterfly/source/img" />
-      <recent name="$PROJECT_DIR$/themes/next-eight/source/css/_common/components" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/source/pub-images/video" />
       <recent name="$PROJECT_DIR$/source/pub-images/image" />
@@ -120,10 +83,29 @@
       <recent name="$PROJECT_DIR$/source/other" />
       <recent name="$PROJECT_DIR$/source/首页" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts" />
+      <recent name="$PROJECT_DIR$/source/pub-images" />
+      <recent name="$PROJECT_DIR$/themes/Butterfly" />
+      <recent name="$PROJECT_DIR$/source" />
+      <recent name="$PROJECT_DIR$/themes/butterfly/source/img" />
+    </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -158,7 +140,18 @@
       <workItem from="1604650602878" duration="33000" />
       <workItem from="1604650673558" duration="16000" />
       <workItem from="1605058895096" duration="16501000" />
-      <workItem from="1605145796675" duration="6729000" />
+      <workItem from="1605145796675" duration="7150000" />
+      <workItem from="1605343317175" duration="449000" />
+      <workItem from="1606440675080" duration="252000" />
+      <workItem from="1629773505820" duration="240000" />
+      <workItem from="1631755065270" duration="1638000" />
+      <workItem from="1631757264425" duration="725000" />
+      <workItem from="1631758366361" duration="1725000" />
+      <workItem from="1632362196415" duration="314000" />
+      <workItem from="1632362531200" duration="42000" />
+      <workItem from="1632367251060" duration="223000" />
+      <workItem from="1632369336591" duration="282000" />
+      <workItem from="1632448539400" duration="1027000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1598518233873</created>
@@ -279,11 +272,25 @@
       <option name="project" value="LOCAL" />
       <updated>1605068182461</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="修改主题：&#10;添加背景&#10;添加自定义文章底部版权声明&#10;添加红心&#10;添加字数统计&#10;添加动画图像">
+      <created>1605153465390</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605153465390</updated>
+    </task>
+    <task id="LOCAL-00019" summary="添加 流水查询说明">
+      <created>1605343556694</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1605343556694</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -300,7 +307,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -319,55 +328,48 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/next" />
       <path value="$PROJECT_DIR$/themes/next-eight" />
+      <path value="$PROJECT_DIR$/.deploy_git" />
+      <path value="$PROJECT_DIR$/themes/butterfly" />
     </ignored-roots>
     <MESSAGE value="first commit" />
     <MESSAGE value="部署最新网站内容&#10;加快访问速度" />
     <MESSAGE value="修改主题：&#10;添加背景" />
     <MESSAGE value="ss" />
     <MESSAGE value="修改主题：&#10;添加背景&#10;添加自定义文章底部版权声明&#10;添加红心&#10;添加字数统计&#10;添加动画图像" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改主题：&#10;添加背景&#10;添加自定义文章底部版权声明&#10;添加红心&#10;添加字数统计&#10;添加动画图像" />
+    <MESSAGE value="添加 流水查询说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 流水查询说明" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1997" y="63" key="CommitChangelistDialog2" timestamp="1605068388582">
+    <state x="2123" y="368" key="#Notifications" timestamp="1631757270825">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="1997" y="63" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605068388582" />
-    <state x="1828" y="142" width="1152" height="720" key="DiffContextDialog" timestamp="1605074875680">
+    <state x="2123" y="368" key="#Notifications/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631757270825" />
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom" timestamp="1631756344514">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="1828" y="142" width="1152" height="720" key="DiffContextDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605074875680" />
-    <state x="1909" y="171" key="SettingsEditor" timestamp="1604644257595">
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631756344514" />
+    <state width="1899" height="304" key="GridCell.Tab.0.center" timestamp="1631756344511">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="1909" y="171" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1604644257595" />
-    <state x="1909" y="190" key="SettingsEditor/0.23.1440.824/1440.23.1920.1057@1440.23.1920.1057" timestamp="1604643704443" />
-    <state x="2000" y="280" key="Vcs.Push.Dialog.v2" timestamp="1605068409557">
+    <state width="1899" height="304" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631756344511" />
+    <state width="1899" height="304" key="GridCell.Tab.0.left" timestamp="1631756344510">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605068409557" />
-    <state x="1540" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605149632035">
+    <state width="1899" height="304" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631756344510" />
+    <state width="1899" height="304" key="GridCell.Tab.0.right" timestamp="1631756344513">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="1540" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605149632035" />
-    <state x="2213" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605074562757">
+    <state width="1899" height="304" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631756344513" />
+    <state x="2135" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631755770530">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="2213" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605068122768" />
-    <state x="2213" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605074562757" />
-    <state x="2107" y="295" width="586" height="522" key="find.popup" timestamp="1605153249669">
-      <screen x="1440" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2107" y="295" width="586" height="522" key="find.popup/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605153249669" />
-    <state x="2107" y="295" width="586" height="490" key="find.popup/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605081020747" />
-    <state x="2065" y="241" key="search.everywhere.popup" timestamp="1605152590236">
-      <screen x="1440" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2065" y="241" key="search.everywhere.popup/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1605152590236" />
+    <state x="2135" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631755770530" />
+    <state x="521" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/1440.25.1920.1055@0.0.1440.900" timestamp="1631755091218" />
+    <state x="2135" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.875/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631755609756" />
   </component>
 </project>

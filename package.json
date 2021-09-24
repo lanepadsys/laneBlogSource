@@ -38,6 +38,5 @@
     "live2d-widget-model-wanko": "^1.0.5",
     "save": "^2.4.0",
     "valine": "^1.4.14"
-  },
-  "devDependencies": {}
+  }
 }
