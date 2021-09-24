@@ -19,12 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dacac5c1-c2c3-4bb0-a49c-a0ef2f5d7560" name="Default Changelist" comment="修改主题：&#10;添加背景&#10;添加自定义文章底部版权声明&#10;添加红心&#10;添加字数统计&#10;添加动画图像">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="dacac5c1-c2c3-4bb0-a49c-a0ef2f5d7560" name="Default Changelist" comment="添加 系统更新">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +147,7 @@
       <workItem from="1632362531200" duration="42000" />
       <workItem from="1632367251060" duration="223000" />
       <workItem from="1632369336591" duration="282000" />
-      <workItem from="1632448539400" duration="1027000" />
+      <workItem from="1632448539400" duration="6323000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1598518233873</created>
@@ -286,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605343556694</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="添加 系统更新">
+      <created>1632449735914</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1632449735914</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,7 +345,8 @@
     <MESSAGE value="ss" />
     <MESSAGE value="修改主题：&#10;添加背景&#10;添加自定义文章底部版权声明&#10;添加红心&#10;添加字数统计&#10;添加动画图像" />
     <MESSAGE value="添加 流水查询说明" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 流水查询说明" />
+    <MESSAGE value="添加 系统更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 系统更新" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2123" y="368" key="#Notifications" timestamp="1631757270825">
