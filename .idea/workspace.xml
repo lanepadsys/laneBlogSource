@@ -19,8 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dacac5c1-c2c3-4bb0-a49c-a0ef2f5d7560" name="Default Changelist" comment="添加 系统更新" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="dacac5c1-c2c3-4bb0-a49c-a0ef2f5d7560" name="Default Changelist" comment="添加 系统更新">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,19 +88,7 @@
       <recent name="$PROJECT_DIR$/themes/butterfly/source/img" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
@@ -145,7 +136,9 @@
       <workItem from="1632362531200" duration="42000" />
       <workItem from="1632367251060" duration="223000" />
       <workItem from="1632369336591" duration="282000" />
-      <workItem from="1632448539400" duration="6560000" />
+      <workItem from="1632448539400" duration="6687000" />
+      <workItem from="1634019386258" duration="216000" />
+      <workItem from="1634019624766" duration="1535000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1598518233873</created>
@@ -294,11 +287,18 @@
       <option name="project" value="LOCAL" />
       <updated>1632455460143</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="添加 系统更新">
+      <created>1632455478295</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1632455478295</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -315,9 +315,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -336,6 +334,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -343,6 +342,7 @@
       <path value="$PROJECT_DIR$/themes/next-eight" />
       <path value="$PROJECT_DIR$/.deploy_git" />
       <path value="$PROJECT_DIR$/themes/butterfly" />
+      <path value="$PROJECT_DIR$/themes/Butterfly" />
     </ignored-roots>
     <MESSAGE value="first commit" />
     <MESSAGE value="部署最新网站内容&#10;加快访问速度" />
@@ -352,33 +352,5 @@
     <MESSAGE value="添加 流水查询说明" />
     <MESSAGE value="添加 系统更新" />
     <option name="LAST_COMMIT_MESSAGE" value="添加 系统更新" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2123" y="368" key="#Notifications" timestamp="1631757270825">
-      <screen x="1440" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2123" y="368" key="#Notifications/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631757270825" />
-    <state width="1899" height="304" key="GridCell.Tab.0.bottom" timestamp="1631756344514">
-      <screen x="1440" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1899" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631756344514" />
-    <state width="1899" height="304" key="GridCell.Tab.0.center" timestamp="1631756344511">
-      <screen x="1440" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1899" height="304" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631756344511" />
-    <state width="1899" height="304" key="GridCell.Tab.0.left" timestamp="1631756344510">
-      <screen x="1440" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1899" height="304" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631756344510" />
-    <state width="1899" height="304" key="GridCell.Tab.0.right" timestamp="1631756344513">
-      <screen x="1440" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1899" height="304" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631756344513" />
-    <state x="2135" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631755770530">
-      <screen x="1440" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2135" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631755770530" />
-    <state x="521" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/1440.25.1920.1055@0.0.1440.900" timestamp="1631755091218" />
-    <state x="2135" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.875/1440.0.1920.1080@1440.0.1920.1080" timestamp="1631755609756" />
   </component>
 </project>

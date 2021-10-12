@@ -112,13 +112,13 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   - type: git
-    repo: git@lanepad.github.com:lanepadsys/lanepadsys.github.io.git
+    repo: git@github.com:lanepadsys/lanepadsys.github.io.git
     branch: master
     message: https://github.com/lanepadsys/laneBlogSource 内容部署
 
 #  - type: leancloud_counter_security_sync
 
-#  - type: git
+#  - type: git git@github.com:lanepadsys/lanepadsys.github.io.git
 #    repo: git@lanepad.github.com:lanepadsys/laneBlogSource.git
 #    branch: coding-pages
 #    message: https://github.com/lanepadsys/laneBlogSource 内容部署
